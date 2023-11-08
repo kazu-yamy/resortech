@@ -2,4 +2,3 @@ image/
 .venv
 Pipfile
 Pipfile.lock
-*.ipynb
