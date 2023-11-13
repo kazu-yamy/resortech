@@ -1,0 +1,6 @@
+image/
+models/
+.venv
+Pipfile
+Pipfile.lock
+*.pyc
