@@ -41,6 +41,6 @@ py main.py
 ```
 
 # Author
-* (Macha_Found/kazu-yamy)[https://github.com/kazu-yamy]
+* [Macha_Found/kazu-yamy](https://github.com/kazu-yamy)
 * National institute of Technology，Okinawa College (Student)
-* (Twitter)[https://twitter.com/Kazuki_yamy0125]
+* [Twitter](https://twitter.com/Kazuki_yamy0125)
