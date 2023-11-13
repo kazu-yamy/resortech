@@ -1,3 +1,6 @@
+import socket
+
+import uvicorn
 from api import predict
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -22,3 +25,8 @@ app.include_router(predict.router)
 @app.get("/")
 def demo():
     return {"response": "success"}
+
+
+if __name__ == "__main__":
+    ip = socket.gethostbyname(socket.gethostname())
+    uvicorn.run(app, host=ip, port=8000, log_level="info")
