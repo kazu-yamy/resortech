@@ -12,7 +12,7 @@ chardet
 click
 colorama
 comm
-cryptography
+cryptograph
 debugpy
 decorator
 defer
