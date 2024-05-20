@@ -4,3 +4,4 @@ models/
 Pipfile
 Pipfile.lock
 *.pyc
+.python-version
