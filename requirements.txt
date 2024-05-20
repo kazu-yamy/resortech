@@ -4,10 +4,9 @@ opencv-python
 numpy
 scikit-learn
 
-# MacOS
-tensorflow
-
 # WSL or NvidiaGPU
-# tensorflow[and-cuda]
+tensorflow[and-cuda]
 
+# V If you use MacOS V
+# tensorflow
 keras

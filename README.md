@@ -25,6 +25,7 @@ git clone https://github.com/kazu-yamy/resortech.git
 cd ./resortech
 ```
 2. install libraries
+If you use MacOS you should update "requirements.txt" .
 ```
 pip install -r ./requirements.txt
 ```
